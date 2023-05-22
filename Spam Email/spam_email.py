@@ -1,7 +1,3 @@
-# Spam email CSV file download from Kaggle 
-# (https://www.kaggle.com/datasets/venky73/spam-mails-dataset?resource=download)
-# Requirement- install sklearn (pip install -U scikit-learn)
-
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
