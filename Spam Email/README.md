@@ -26,7 +26,7 @@ Please ensure that you have downloaded the dataset and placed it in the same dir
 
 2. Run the script using the following command:
 
-## python spam_filter.py
+## python spam_email.py
 
 
 3. The program will display the accuracy of the spam filter on the test dataset.
