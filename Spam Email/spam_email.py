@@ -53,5 +53,5 @@ def spam_filter(csv_file_path):
         print("This is a Ham Mail")
 
 # Example usage:
-csv_file_path = "C:\\Users\\nasir\\OneDrive\\Desktop\\Task\\spam.csv"
+csv_file_path = "spam.csv"
 spam_filter(csv_file_path)
